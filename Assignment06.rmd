@@ -1,0 +1,14 @@
+```{r setup,include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(kableExtra)
+library(HelpersMG)
+library(tidyr)
+library(dplyr)
+library(lubridate)
+```
+
+```{r load_data,cache=TRUE}
+wget ("https://ourworldindata.org/covid-deaths", destfile="./raw_data/owid-covid-data.csv")
+```
+
