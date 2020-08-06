@@ -9,6 +9,10 @@ library(lubridate)
 ```
 
 ```{r load_data,cache=TRUE}
-wget ("https://ourworldindata.org/covid-deaths", destfile="./raw_data/owid-covid-data.csv")
+wget ("https://covid.ourworldindata.org/data/owid-covid-data.csv", destfile="./raw_data/owid-covid-data.csv")
+```
+
+```{r}
+Firsttibble<-read_csv("./raw_data/owid-covid-data.csv") %>% select(location, diabetes_prevalence, aged_70_older, total_deaths, date) %>% rename(Country=location) %>% filter(date <= as.Date("2020-06-30")) %>% write_csv("./output/june_deaths_by_country.csv")
 ```
 
