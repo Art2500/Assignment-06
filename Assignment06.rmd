@@ -16,3 +16,7 @@ wget ("https://covid.ourworldindata.org/data/owid-covid-data.csv", destfile="./r
 Firsttibble<-read_csv("./raw_data/owid-covid-data.csv") %>% select(location, diabetes_prevalence, aged_70_older, total_deaths, date) %>% rename(Country=location) %>% filter(date <= as.Date("2020-06-30")) %>% write_csv("./output/june_deaths_by_country.csv")
 ```
 
+```{r}
+Secondtibble<-read_csv("./raw_data/owid-covid-data.csv") %>% select(location, total_deaths, date, continent) %>% rename(Country=location) %>% filter(continent == "Europe") %>% write_csv("./output/european_deaths_by_date.csv")
+```
+
