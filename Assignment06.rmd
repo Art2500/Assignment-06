@@ -8,15 +8,23 @@ library(dplyr)
 library(lubridate)
 ```
 
-```{r load_data,cache=TRUE}
+```{r load_data,cache=TRUE,echo=FALSE,message=FALSE}
 wget ("https://covid.ourworldindata.org/data/owid-covid-data.csv", destfile="./raw_data/owid-covid-data.csv")
 ```
 
-```{r}
+```{r,echo=FALSE,message=FALSE}
 Firsttibble<-read_csv("./raw_data/owid-covid-data.csv") %>% select(location, diabetes_prevalence, aged_70_older, total_deaths, date) %>% rename(Country=location) %>% filter(date <= as.Date("2020-06-30")) %>% write_csv("./output/june_deaths_by_country.csv")
 ```
 
-```{r}
+```{r,echo=FALSE,message=FALSE}
 Secondtibble<-read_csv("./raw_data/owid-covid-data.csv") %>% select(location, total_deaths, date, continent) %>% rename(Country=location) %>% filter(continent == "Europe") %>% write_csv("./output/european_deaths_by_date.csv")
+```
+
+```{r,echo=FALSE,message=FALSE,warning=FALSE}
+ggplot(data = read_csv("./output/june_deaths_by_country.csv"), aes(x = diabetes_prevalence, y = total_deaths)) + geom_point() + labs(x = "Diabetes Prevalence (%)", y = "Total Deaths") + theme_linedraw() + scale_y_continuous(labels = scales::comma) + xlim(0,25) + ylim(0,150000)
+```
+
+```{r,echo=FALSE,message=FALSE,warning=FALSE}
+ggplot(data = read_csv("./output/june_deaths_by_country.csv"), aes(x = aged_70_older, y = total_deaths)) + geom_point() + labs(x = "Population Over 70 (%)", y = "Total Deaths") + theme_linedraw() + scale_y_continuous(labels = scales::comma) + xlim(0,20) + ylim(0,150000)
 ```
 
