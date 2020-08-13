@@ -1,3 +1,19 @@
+---
+title: "Assignment 6"
+author: "Arthur Moore"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: html_document
+---
+
+
+
+
+
+
+
+
+
+
 ```{r setup,include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
@@ -20,11 +36,18 @@ Firsttibble<-read_csv("./raw_data/owid-covid-data.csv") %>% select(location, dia
 Secondtibble<-read_csv("./raw_data/owid-covid-data.csv") %>% select(location, total_deaths, date, continent) %>% rename(Country=location) %>% filter(continent == "Europe") %>% write_csv("./output/european_deaths_by_date.csv")
 ```
 
-```{r,echo=FALSE,message=FALSE,warning=FALSE}
+```{r,echo=FALSE,message=FALSE,warning=FALSE,fig.align='center'}
 ggplot(data = read_csv("./output/june_deaths_by_country.csv"), aes(x = diabetes_prevalence, y = total_deaths)) + geom_point() + labs(x = "Diabetes Prevalence (%)", y = "Total Deaths") + theme_linedraw() + scale_y_continuous(labels = scales::comma) + xlim(0,25) + ylim(0,150000)
 ```
 
-```{r,echo=FALSE,message=FALSE,warning=FALSE}
+```{r,echo=FALSE,message=FALSE,warning=FALSE,fig.align='center'}
 ggplot(data = read_csv("./output/june_deaths_by_country.csv"), aes(x = aged_70_older, y = total_deaths)) + geom_point() + labs(x = "Population Over 70 (%)", y = "Total Deaths") + theme_linedraw() + scale_y_continuous(labels = scales::comma) + xlim(0,20) + ylim(0,150000)
 ```
 
+```{r,echo=FALSE,message=FALSE,warning=FALSE,fig.align='center'}
+ggplot(data= read_csv("./output/european_deaths_by_date.csv"), aes(x=date, y=total_deaths, color=Country))+ geom_line()+scale_y_log10()+labs(x="European Country Deaths", y="Date")
+```
+
+
+
+The First country to reach 1000 deaths was Italy around the end of March 

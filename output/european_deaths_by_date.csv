@@ -154,6 +154,8 @@ Albania,188,2020-08-07,Europe
 Albania,189,2020-08-08,Europe
 Albania,193,2020-08-09,Europe
 Albania,199,2020-08-10,Europe
+Albania,200,2020-08-11,Europe
+Albania,205,2020-08-12,Europe
 Andorra,0,2020-03-03,Europe
 Andorra,0,2020-03-14,Europe
 Andorra,0,2020-03-16,Europe
@@ -304,6 +306,8 @@ Andorra,52,2020-08-07,Europe
 Andorra,52,2020-08-08,Europe
 Andorra,52,2020-08-09,Europe
 Andorra,52,2020-08-10,Europe
+Andorra,52,2020-08-11,Europe
+Andorra,52,2020-08-12,Europe
 Austria,0,2019-12-31,Europe
 Austria,0,2020-01-01,Europe
 Austria,0,2020-01-02,Europe
@@ -528,6 +532,8 @@ Austria,719,2020-08-07,Europe
 Austria,720,2020-08-08,Europe
 Austria,721,2020-08-09,Europe
 Austria,721,2020-08-10,Europe
+Austria,723,2020-08-11,Europe
+Austria,723,2020-08-12,Europe
 Belgium,0,2019-12-31,Europe
 Belgium,0,2020-01-01,Europe
 Belgium,0,2020-01-02,Europe
@@ -751,7 +757,9 @@ Belgium,9864,2020-08-06,Europe
 Belgium,9866,2020-08-07,Europe
 Belgium,9870,2020-08-08,Europe
 Belgium,9872,2020-08-09,Europe
-Belgium,9872,2020-08-10,Europe
+Belgium,9876,2020-08-10,Europe
+Belgium,9882,2020-08-11,Europe
+Belgium,9885,2020-08-12,Europe
 Bulgaria,0,2020-03-08,Europe
 Bulgaria,0,2020-03-09,Europe
 Bulgaria,1,2020-03-12,Europe
@@ -906,6 +914,8 @@ Bulgaria,424,2020-08-07,Europe
 Bulgaria,435,2020-08-08,Europe
 Bulgaria,445,2020-08-09,Europe
 Bulgaria,447,2020-08-10,Europe
+Bulgaria,459,2020-08-11,Europe
+Bulgaria,471,2020-08-12,Europe
 Bosnia and Herzegovina,0,2020-03-06,Europe
 Bosnia and Herzegovina,0,2020-03-12,Europe
 Bosnia and Herzegovina,0,2020-03-13,Europe
@@ -1057,6 +1067,8 @@ Bosnia and Herzegovina,379,2020-08-07,Europe
 Bosnia and Herzegovina,394,2020-08-08,Europe
 Bosnia and Herzegovina,396,2020-08-09,Europe
 Bosnia and Herzegovina,402,2020-08-10,Europe
+Bosnia and Herzegovina,425,2020-08-11,Europe
+Bosnia and Herzegovina,447,2020-08-12,Europe
 Belarus,0,2019-12-31,Europe
 Belarus,0,2020-01-01,Europe
 Belarus,0,2020-01-02,Europe
@@ -1281,6 +1293,8 @@ Belarus,580,2020-08-07,Europe
 Belarus,583,2020-08-08,Europe
 Belarus,585,2020-08-09,Europe
 Belarus,587,2020-08-10,Europe
+Belarus,589,2020-08-11,Europe
+Belarus,592,2020-08-12,Europe
 Switzerland,0,2019-12-31,Europe
 Switzerland,0,2020-01-01,Europe
 Switzerland,0,2020-01-02,Europe
@@ -1505,6 +1519,8 @@ Switzerland,1708,2020-08-07,Europe
 Switzerland,1711,2020-08-08,Europe
 Switzerland,1711,2020-08-09,Europe
 Switzerland,1711,2020-08-10,Europe
+Switzerland,1711,2020-08-11,Europe
+Switzerland,1712,2020-08-12,Europe
 Cyprus,0,2020-03-10,Europe
 Cyprus,0,2020-03-12,Europe
 Cyprus,0,2020-03-14,Europe
@@ -1657,6 +1673,8 @@ Cyprus,19,2020-08-07,Europe
 Cyprus,19,2020-08-08,Europe
 Cyprus,19,2020-08-09,Europe
 Cyprus,19,2020-08-10,Europe
+Cyprus,19,2020-08-11,Europe
+Cyprus,20,2020-08-12,Europe
 Czech Republic,0,2019-12-31,Europe
 Czech Republic,0,2020-01-01,Europe
 Czech Republic,0,2020-01-02,Europe
@@ -1880,7 +1898,9 @@ Czech Republic,388,2020-08-06,Europe
 Czech Republic,389,2020-08-07,Europe
 Czech Republic,389,2020-08-08,Europe
 Czech Republic,389,2020-08-09,Europe
-Czech Republic,390,2020-08-10,Europe
+Czech Republic,389,2020-08-10,Europe
+Czech Republic,389,2020-08-11,Europe
+Czech Republic,391,2020-08-12,Europe
 Germany,0,2019-12-31,Europe
 Germany,0,2020-01-01,Europe
 Germany,0,2020-01-02,Europe
@@ -2105,6 +2125,8 @@ Germany,9183,2020-08-07,Europe
 Germany,9195,2020-08-08,Europe
 Germany,9196,2020-08-09,Europe
 Germany,9197,2020-08-10,Europe
+Germany,9201,2020-08-11,Europe
+Germany,9207,2020-08-12,Europe
 Denmark,0,2019-12-31,Europe
 Denmark,0,2020-01-01,Europe
 Denmark,0,2020-01-02,Europe
@@ -2329,6 +2351,8 @@ Denmark,617,2020-08-07,Europe
 Denmark,617,2020-08-08,Europe
 Denmark,617,2020-08-09,Europe
 Denmark,617,2020-08-10,Europe
+Denmark,620,2020-08-11,Europe
+Denmark,621,2020-08-12,Europe
 Spain,0,2019-12-31,Europe
 Spain,0,2020-01-01,Europe
 Spain,0,2020-01-02,Europe
@@ -2552,6 +2576,8 @@ Spain,28500,2020-08-06,Europe
 Spain,28503,2020-08-07,Europe
 Spain,28503,2020-08-08,Europe
 Spain,28503,2020-08-09,Europe
+Spain,28576,2020-08-10,Europe
+Spain,28581,2020-08-11,Europe
 Estonia,0,2019-12-31,Europe
 Estonia,0,2020-01-01,Europe
 Estonia,0,2020-01-02,Europe
@@ -2776,6 +2802,8 @@ Estonia,63,2020-08-07,Europe
 Estonia,63,2020-08-08,Europe
 Estonia,63,2020-08-09,Europe
 Estonia,63,2020-08-10,Europe
+Estonia,63,2020-08-11,Europe
+Estonia,63,2020-08-12,Europe
 Finland,0,2019-12-31,Europe
 Finland,0,2020-01-01,Europe
 Finland,0,2020-01-02,Europe
@@ -3000,6 +3028,8 @@ Finland,331,2020-08-07,Europe
 Finland,331,2020-08-08,Europe
 Finland,331,2020-08-09,Europe
 Finland,331,2020-08-10,Europe
+Finland,333,2020-08-11,Europe
+Finland,333,2020-08-12,Europe
 France,0,2019-12-31,Europe
 France,0,2020-01-01,Europe
 France,0,2020-01-02,Europe
@@ -3224,6 +3254,8 @@ France,30312,2020-08-07,Europe
 France,30324,2020-08-08,Europe
 France,30324,2020-08-09,Europe
 France,30324,2020-08-10,Europe
+France,30340,2020-08-11,Europe
+France,30354,2020-08-12,Europe
 Faeroe Islands,0,2020-03-06,Europe
 Faeroe Islands,0,2020-03-07,Europe
 Faeroe Islands,0,2020-03-08,Europe
@@ -3382,6 +3414,8 @@ Faeroe Islands,0,2020-08-07,Europe
 Faeroe Islands,0,2020-08-08,Europe
 Faeroe Islands,0,2020-08-09,Europe
 Faeroe Islands,0,2020-08-10,Europe
+Faeroe Islands,0,2020-08-11,Europe
+Faeroe Islands,0,2020-08-12,Europe
 United Kingdom,0,2019-12-31,Europe
 United Kingdom,0,2020-01-01,Europe
 United Kingdom,0,2020-01-02,Europe
@@ -3606,6 +3640,8 @@ United Kingdom,46413,2020-08-07,Europe
 United Kingdom,46511,2020-08-08,Europe
 United Kingdom,46566,2020-08-09,Europe
 United Kingdom,46574,2020-08-10,Europe
+United Kingdom,46526,2020-08-11,Europe
+United Kingdom,46526,2020-08-12,Europe
 Guernsey,0,2020-03-20,Europe
 Guernsey,0,2020-03-21,Europe
 Guernsey,0,2020-03-22,Europe
@@ -3750,6 +3786,8 @@ Guernsey,13,2020-08-07,Europe
 Guernsey,13,2020-08-08,Europe
 Guernsey,13,2020-08-09,Europe
 Guernsey,13,2020-08-10,Europe
+Guernsey,13,2020-08-11,Europe
+Guernsey,13,2020-08-12,Europe
 Gibraltar,0,2020-03-20,Europe
 Gibraltar,0,2020-03-21,Europe
 Gibraltar,0,2020-03-22,Europe
@@ -3894,6 +3932,8 @@ Gibraltar,0,2020-08-07,Europe
 Gibraltar,0,2020-08-08,Europe
 Gibraltar,0,2020-08-09,Europe
 Gibraltar,0,2020-08-10,Europe
+Gibraltar,0,2020-08-11,Europe
+Gibraltar,0,2020-08-12,Europe
 Greece,0,2019-12-31,Europe
 Greece,0,2020-01-01,Europe
 Greece,0,2020-01-02,Europe
@@ -4118,6 +4158,8 @@ Greece,210,2020-08-07,Europe
 Greece,210,2020-08-08,Europe
 Greece,211,2020-08-09,Europe
 Greece,212,2020-08-10,Europe
+Greece,213,2020-08-11,Europe
+Greece,214,2020-08-12,Europe
 Croatia,0,2019-12-31,Europe
 Croatia,0,2020-01-01,Europe
 Croatia,0,2020-01-02,Europe
@@ -4342,6 +4384,8 @@ Croatia,155,2020-08-07,Europe
 Croatia,155,2020-08-08,Europe
 Croatia,157,2020-08-09,Europe
 Croatia,157,2020-08-10,Europe
+Croatia,158,2020-08-11,Europe
+Croatia,160,2020-08-12,Europe
 Hungary,NA,2020-03-04,Europe
 Hungary,0,2020-03-05,Europe
 Hungary,NA,2020-03-06,Europe
@@ -4502,6 +4546,8 @@ Hungary,600,2020-08-07,Europe
 Hungary,602,2020-08-08,Europe
 Hungary,602,2020-08-09,Europe
 Hungary,602,2020-08-10,Europe
+Hungary,605,2020-08-11,Europe
+Hungary,605,2020-08-12,Europe
 Isle of Man,0,2020-03-21,Europe
 Isle of Man,0,2020-03-22,Europe
 Isle of Man,0,2020-03-23,Europe
@@ -4645,6 +4691,8 @@ Isle of Man,24,2020-08-07,Europe
 Isle of Man,24,2020-08-08,Europe
 Isle of Man,24,2020-08-09,Europe
 Isle of Man,24,2020-08-10,Europe
+Isle of Man,24,2020-08-11,Europe
+Isle of Man,24,2020-08-12,Europe
 Ireland,0,2019-12-31,Europe
 Ireland,0,2020-01-01,Europe
 Ireland,0,2020-01-02,Europe
@@ -4867,6 +4915,8 @@ Ireland,1768,2020-08-07,Europe
 Ireland,1772,2020-08-08,Europe
 Ireland,1772,2020-08-09,Europe
 Ireland,1772,2020-08-10,Europe
+Ireland,1772,2020-08-11,Europe
+Ireland,1773,2020-08-12,Europe
 Iceland,0,2019-12-31,Europe
 Iceland,0,2020-01-01,Europe
 Iceland,0,2020-01-02,Europe
@@ -5091,6 +5141,8 @@ Iceland,10,2020-08-07,Europe
 Iceland,10,2020-08-08,Europe
 Iceland,10,2020-08-09,Europe
 Iceland,10,2020-08-10,Europe
+Iceland,10,2020-08-11,Europe
+Iceland,10,2020-08-12,Europe
 Italy,0,2019-12-31,Europe
 Italy,0,2020-01-01,Europe
 Italy,0,2020-01-02,Europe
@@ -5315,6 +5367,8 @@ Italy,35187,2020-08-07,Europe
 Italy,35190,2020-08-08,Europe
 Italy,35203,2020-08-09,Europe
 Italy,35205,2020-08-10,Europe
+Italy,35209,2020-08-11,Europe
+Italy,35215,2020-08-12,Europe
 Jersey,0,2020-03-20,Europe
 Jersey,0,2020-03-21,Europe
 Jersey,0,2020-03-22,Europe
@@ -5459,6 +5513,8 @@ Jersey,31,2020-08-07,Europe
 Jersey,31,2020-08-08,Europe
 Jersey,31,2020-08-09,Europe
 Jersey,31,2020-08-10,Europe
+Jersey,31,2020-08-11,Europe
+Jersey,31,2020-08-12,Europe
 Liechtenstein,0,2020-03-05,Europe
 Liechtenstein,0,2020-03-12,Europe
 Liechtenstein,0,2020-03-13,Europe
@@ -5612,6 +5668,8 @@ Liechtenstein,1,2020-08-07,Europe
 Liechtenstein,1,2020-08-08,Europe
 Liechtenstein,1,2020-08-09,Europe
 Liechtenstein,1,2020-08-10,Europe
+Liechtenstein,1,2020-08-11,Europe
+Liechtenstein,1,2020-08-12,Europe
 Lithuania,0,2019-12-31,Europe
 Lithuania,0,2020-01-01,Europe
 Lithuania,0,2020-01-02,Europe
@@ -5836,6 +5894,8 @@ Lithuania,81,2020-08-07,Europe
 Lithuania,81,2020-08-08,Europe
 Lithuania,81,2020-08-09,Europe
 Lithuania,81,2020-08-10,Europe
+Lithuania,81,2020-08-11,Europe
+Lithuania,81,2020-08-12,Europe
 Luxembourg,0,2019-12-31,Europe
 Luxembourg,0,2020-01-01,Europe
 Luxembourg,0,2020-01-02,Europe
@@ -6060,6 +6120,8 @@ Luxembourg,119,2020-08-07,Europe
 Luxembourg,119,2020-08-08,Europe
 Luxembourg,119,2020-08-09,Europe
 Luxembourg,119,2020-08-10,Europe
+Luxembourg,121,2020-08-11,Europe
+Luxembourg,122,2020-08-12,Europe
 Latvia,NA,2020-02-29,Europe
 Latvia,NA,2020-03-01,Europe
 Latvia,NA,2020-03-02,Europe
@@ -6224,6 +6286,8 @@ Latvia,32,2020-08-07,Europe
 Latvia,32,2020-08-08,Europe
 Latvia,32,2020-08-09,Europe
 Latvia,32,2020-08-10,Europe
+Latvia,32,2020-08-11,Europe
+Latvia,32,2020-08-12,Europe
 Monaco,0,2019-12-31,Europe
 Monaco,0,2020-01-01,Europe
 Monaco,0,2020-01-02,Europe
@@ -6436,6 +6500,8 @@ Monaco,7,2020-08-07,Europe
 Monaco,7,2020-08-08,Europe
 Monaco,7,2020-08-09,Europe
 Monaco,7,2020-08-10,Europe
+Monaco,7,2020-08-11,Europe
+Monaco,7,2020-08-12,Europe
 Moldova,0,2020-03-08,Europe
 Moldova,0,2020-03-11,Europe
 Moldova,0,2020-03-12,Europe
@@ -6590,6 +6656,8 @@ Moldova,828,2020-08-07,Europe
 Moldova,835,2020-08-08,Europe
 Moldova,841,2020-08-09,Europe
 Moldova,845,2020-08-10,Europe
+Moldova,850,2020-08-11,Europe
+Moldova,857,2020-08-12,Europe
 Macedonia,0,2019-12-31,Europe
 Macedonia,0,2020-01-01,Europe
 Macedonia,0,2020-01-02,Europe
@@ -6805,6 +6873,8 @@ Macedonia,511,2020-08-07,Europe
 Macedonia,519,2020-08-08,Europe
 Macedonia,523,2020-08-09,Europe
 Macedonia,527,2020-08-10,Europe
+Macedonia,528,2020-08-11,Europe
+Macedonia,528,2020-08-12,Europe
 Malta,NA,2020-02-06,Europe
 Malta,NA,2020-02-07,Europe
 Malta,NA,2020-02-08,Europe
@@ -6992,6 +7062,8 @@ Malta,9,2020-08-07,Europe
 Malta,9,2020-08-08,Europe
 Malta,9,2020-08-09,Europe
 Malta,9,2020-08-10,Europe
+Malta,9,2020-08-11,Europe
+Malta,9,2020-08-12,Europe
 Montenegro,0,2020-03-18,Europe
 Montenegro,0,2020-03-19,Europe
 Montenegro,0,2020-03-20,Europe
@@ -7138,6 +7210,8 @@ Montenegro,60,2020-08-07,Europe
 Montenegro,61,2020-08-08,Europe
 Montenegro,62,2020-08-09,Europe
 Montenegro,64,2020-08-10,Europe
+Montenegro,68,2020-08-11,Europe
+Montenegro,71,2020-08-12,Europe
 Netherlands,0,2019-12-31,Europe
 Netherlands,0,2020-01-01,Europe
 Netherlands,0,2020-01-02,Europe
@@ -7356,12 +7430,14 @@ Netherlands,6140,2020-08-01,Europe
 Netherlands,6140,2020-08-02,Europe
 Netherlands,6140,2020-08-03,Europe
 Netherlands,6140,2020-08-04,Europe
-Netherlands,6150,2020-08-05,Europe
-Netherlands,6153,2020-08-06,Europe
-Netherlands,6153,2020-08-07,Europe
-Netherlands,6154,2020-08-08,Europe
-Netherlands,6157,2020-08-09,Europe
-Netherlands,6157,2020-08-10,Europe
+Netherlands,6141,2020-08-05,Europe
+Netherlands,6145,2020-08-06,Europe
+Netherlands,6145,2020-08-07,Europe
+Netherlands,6145,2020-08-08,Europe
+Netherlands,6148,2020-08-09,Europe
+Netherlands,6148,2020-08-10,Europe
+Netherlands,6148,2020-08-11,Europe
+Netherlands,6150,2020-08-12,Europe
 Norway,0,2019-12-31,Europe
 Norway,0,2020-01-01,Europe
 Norway,0,2020-01-02,Europe
@@ -7586,6 +7662,8 @@ Norway,256,2020-08-07,Europe
 Norway,256,2020-08-08,Europe
 Norway,256,2020-08-09,Europe
 Norway,256,2020-08-10,Europe
+Norway,256,2020-08-11,Europe
+Norway,256,2020-08-12,Europe
 Poland,0,2020-03-04,Europe
 Poland,0,2020-03-07,Europe
 Poland,0,2020-03-08,Europe
@@ -7744,6 +7822,8 @@ Poland,1774,2020-08-07,Europe
 Poland,1787,2020-08-08,Europe
 Poland,1800,2020-08-09,Europe
 Poland,1807,2020-08-10,Europe
+Poland,1809,2020-08-11,Europe
+Poland,1821,2020-08-12,Europe
 Portugal,NA,2020-03-01,Europe
 Portugal,NA,2020-03-02,Europe
 Portugal,0,2020-03-03,Europe
@@ -7907,6 +7987,8 @@ Portugal,1743,2020-08-07,Europe
 Portugal,1746,2020-08-08,Europe
 Portugal,1750,2020-08-09,Europe
 Portugal,1756,2020-08-10,Europe
+Portugal,1759,2020-08-11,Europe
+Portugal,1761,2020-08-12,Europe
 Romania,0,2019-12-31,Europe
 Romania,0,2020-01-01,Europe
 Romania,0,2020-01-02,Europe
@@ -8129,6 +8211,8 @@ Romania,2566,2020-08-07,Europe
 Romania,2616,2020-08-08,Europe
 Romania,2659,2020-08-09,Europe
 Romania,2700,2020-08-10,Europe
+Romania,2729,2020-08-11,Europe
+Romania,2764,2020-08-12,Europe
 Russia,0,2019-12-31,Europe
 Russia,0,2020-01-01,Europe
 Russia,0,2020-01-02,Europe
@@ -8353,6 +8437,8 @@ Russia,14606,2020-08-07,Europe
 Russia,14725,2020-08-08,Europe
 Russia,14854,2020-08-09,Europe
 Russia,14931,2020-08-10,Europe
+Russia,15061,2020-08-11,Europe
+Russia,15131,2020-08-12,Europe
 San Marino,0,2019-12-31,Europe
 San Marino,0,2020-01-01,Europe
 San Marino,0,2020-01-02,Europe
@@ -8576,6 +8662,8 @@ San Marino,42,2020-08-07,Europe
 San Marino,42,2020-08-08,Europe
 San Marino,42,2020-08-09,Europe
 San Marino,42,2020-08-10,Europe
+San Marino,42,2020-08-11,Europe
+San Marino,42,2020-08-12,Europe
 Serbia,NA,2020-02-26,Europe
 Serbia,NA,2020-02-27,Europe
 Serbia,NA,2020-02-28,Europe
@@ -8743,6 +8831,8 @@ Serbia,621,2020-08-07,Europe
 Serbia,626,2020-08-08,Europe
 Serbia,632,2020-08-09,Europe
 Serbia,641,2020-08-10,Europe
+Serbia,646,2020-08-11,Europe
+Serbia,652,2020-08-12,Europe
 Slovakia,0,2020-03-07,Europe
 Slovakia,0,2020-03-08,Europe
 Slovakia,0,2020-03-09,Europe
@@ -8899,6 +8989,8 @@ Slovakia,29,2020-08-07,Europe
 Slovakia,31,2020-08-08,Europe
 Slovakia,31,2020-08-09,Europe
 Slovakia,31,2020-08-10,Europe
+Slovakia,31,2020-08-11,Europe
+Slovakia,31,2020-08-12,Europe
 Slovenia,0,2020-03-05,Europe
 Slovenia,0,2020-03-06,Europe
 Slovenia,0,2020-03-07,Europe
@@ -9057,6 +9149,8 @@ Slovenia,118,2020-08-07,Europe
 Slovenia,119,2020-08-08,Europe
 Slovenia,120,2020-08-09,Europe
 Slovenia,120,2020-08-10,Europe
+Slovenia,120,2020-08-11,Europe
+Slovenia,120,2020-08-12,Europe
 Sweden,0,2019-12-31,Europe
 Sweden,0,2020-01-01,Europe
 Sweden,0,2020-01-02,Europe
@@ -9281,6 +9375,8 @@ Sweden,5763,2020-08-07,Europe
 Sweden,5763,2020-08-08,Europe
 Sweden,5763,2020-08-09,Europe
 Sweden,5763,2020-08-10,Europe
+Sweden,5766,2020-08-11,Europe
+Sweden,5770,2020-08-12,Europe
 Ukraine,0,2020-03-04,Europe
 Ukraine,0,2020-03-13,Europe
 Ukraine,0,2020-03-16,Europe
@@ -9431,6 +9527,8 @@ Ukraine,1819,2020-08-07,Europe
 Ukraine,1852,2020-08-08,Europe
 Ukraine,1879,2020-08-09,Europe
 Ukraine,1922,2020-08-10,Europe
+Ukraine,1951,2020-08-11,Europe
+Ukraine,1970,2020-08-12,Europe
 Vatican,0,2020-03-07,Europe
 Vatican,0,2020-03-16,Europe
 Vatican,0,2020-03-17,Europe
@@ -9580,6 +9678,8 @@ Vatican,0,2020-08-07,Europe
 Vatican,0,2020-08-08,Europe
 Vatican,0,2020-08-09,Europe
 Vatican,0,2020-08-10,Europe
+Vatican,0,2020-08-11,Europe
+Vatican,0,2020-08-12,Europe
 Kosovo,0,2020-03-14,Europe
 Kosovo,0,2020-03-15,Europe
 Kosovo,0,2020-03-16,Europe
@@ -9730,3 +9830,5 @@ Kosovo,300,2020-08-07,Europe
 Kosovo,303,2020-08-08,Europe
 Kosovo,303,2020-08-09,Europe
 Kosovo,305,2020-08-10,Europe
+Kosovo,341,2020-08-11,Europe
+Kosovo,341,2020-08-12,Europe
